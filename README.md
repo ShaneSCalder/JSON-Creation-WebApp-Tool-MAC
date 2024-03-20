@@ -108,21 +108,21 @@ This will start the web server, typically accessible at `http://localhost:8080`.
 
 The application generates a `.json` file based on the user's input. This file is structured according to the form inputs, allowing for a wide range of customization and complexity, from simple configurations to complex nested data structures.
 
-##Screenshots
+## Screenshots
 
-##Web Tool
+## Web Tool
 
 ![MAC_WebTool](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC/assets/29208274/c4efa90e-1dfe-424a-873a-5b0164449081)
 
-##Check Metadata
+## Check Metadata
 
 ![Check_Metadata](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC/assets/29208274/0d9ca8a1-116e-4082-b130-e658ec3a41ed)
 
-##Download and check output 
+## Download and check output 
 
 ![json_output](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC/assets/29208274/01795761-b5b3-4fb8-9ba1-623a65fdd4f2)
 
-## no data was added to the page so the output should be blank. 
+- no data was added to the page so the output should be blank. 
 
 ## Contributing
 
