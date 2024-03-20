@@ -40,10 +40,6 @@ By bridging user-friendly metadata generation with the advanced capabilities of 
 
 ## How to Use the Web APP
 
-Certainly! Below is a template for a README.md file for your JSON Creation Web Application hosted on GitHub. This template outlines the application's purpose, setup instructions, usage, output details, and potential future use cases. You can adjust the content as needed to better fit your application's specifics.
-
----
-
 # JSON Creation Web Application
 
 ## About
