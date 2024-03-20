@@ -1,5 +1,7 @@
 # JSON-Creation-WebApp-Tool-MAC
 
+![MerkleMETAlogo1](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC/assets/29208274/ae7d3998-29fc-4d2f-b9e0-aec07009bd4f)
+
 
 ## JSON Format and Interoperability
 
@@ -29,5 +31,8 @@ The integration of Dublin Core Metadata Elements and the capacity to incorporate
 - **Research Data Management**: Enabling researchers to describe and share their datasets effectively, promoting reproducibility and collaboration.
 
 By bridging user-friendly metadata generation with the advanced capabilities of decentralized storage technologies, this application serves as a pivotal tool for data custodians, content creators, and developers looking to leverage the power of standardized metadata and distributed systems.
+
+![JSON_Future_Image](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC/assets/29208274/c0c536b4-6b13-4876-8078-a268d28b873d)
+
 
 
