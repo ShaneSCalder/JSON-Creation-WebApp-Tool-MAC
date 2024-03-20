@@ -1,0 +1,21 @@
+{
+    "DCMI_Metadata": {
+      "Title": "Sample Dataset of Apple Fruit Measurements",
+      "Creator": "Merkle Meta Research Team",
+      "Subject": "Apples, Agriculture, Fruit Measurements",
+      "Description": "This dataset provides detailed measurements and quality assessments of apple fruits, collected as part of an agricultural study by Merkle Meta.",
+      "Publisher": "Merkle Meta Data Publishing",
+      "Contributors": ["Jane Appleseed", "John Orchard"],
+      "Date": "2024-03-15",
+      "Type": "Dataset",
+      "Format": "CSV",
+      "Identifier": "MM2024-Apple-Measurements",
+      "Source": "Field Study",
+      "Language": "EN",
+      "Relation": "Part of the Merkle Meta Agriculture Studies Collection",
+      "Coverage": "Global",
+      "Rights": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "CID":"hash",
+      "DatasetDivisionDescription": "The dataset was divided into four equal parts, with each chunk representing approximately 25% of the total rows from the original dataset. Each chunk was created to facilitate easier analysis and handling of the data."
+    }
+  }

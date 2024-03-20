@@ -1,0 +1,43 @@
+:root {
+    --off-white: #F8F8F8; /* Off-white color */
+    --navbar-dark-blue: #2A4D69; /* Dark blue for contrast elements like buttons */
+  }
+  
+  body {
+    background-color: var(--off-white); /* Use off-white for the background */
+    color: #333; /* Text color for contrast */
+  }
+  
+  .navbar-custom {
+    background-color: var(--navbar-dark-blue) !important;
+  }
+  
+  .navbar-custom .navbar-brand, .navbar-custom .nav-link {
+    color: #FFF !important; /* White text for contrast against dark blue */
+  }
+  
+  .navbar-custom .nav-link:hover, .navbar-custom .navbar-brand:hover {
+    color: #CCC !important; /* Lighter shade for hover effect */
+  }
+  
+  .btn-primary {
+    background-color: var(--navbar-dark-blue); /* Dark blue background for primary buttons */
+    border-color: var(--navbar-dark-blue);
+    color: #FFF !important; /* White text for readability */
+  }
+  
+  .btn-primary:hover {
+    background-color: #1C3D55 !important; /* Slightly lighter blue for hover effect */
+    border-color: #163345 !important;
+  }
+  
+  .form-control {
+    border-color: #CCC; /* Lighter border for input fields for a subtle look */
+  }
+  
+  
+  
+  
+  
+  
+  
