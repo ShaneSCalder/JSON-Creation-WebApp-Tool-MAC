@@ -90,10 +90,6 @@ go run cmd/main.go
 
 This will start the web server, typically accessible at `http://localhost:8080`.
 
-### Configuration
-
-(Include any configuration files or environment variables that need to be set up. If none, you can skip this section.)
-
 ## Usage
 
 1. **Access the Web Application**: Open your web browser and navigate to `http://localhost:8080`.
